@@ -1,4 +1,4 @@
-- name: Matt
+- name: Team BelleIsle
   team: Red Bull
   flag: gb wls
   ln: https://www.linkedin.com/in/john-szabo-85054b14/
@@ -9,7 +9,7 @@
       color: gray
       points: 125
 
-- name: Laura
+- name: Team VanHousen
   team: Danny Ric
   flag: de
   ln: https://www.linkedin.com/in/laura-van-lenten-cpa-71b85922/
@@ -20,7 +20,7 @@
       color: yellow
       points: 142
 
-- name: Murph
+- name: Team Meyer
   team: Improv
   flag: ie
   ln: https://www.linkedin.com/in/murphyryanp/
@@ -31,7 +31,7 @@
       color: 
       points: 74
 
-- name: Trevor
+- name: Team Christensen
   team: Ferrari
   flag: gb sct
   ln: https://www.linkedin.com/in/trevor-rancourt-2b999b65/
@@ -42,7 +42,7 @@
       color: brown
       points: 120
 
-- name: Hellen
+- name: Team Hoffmeister
   team: Swahili
   flag: tz
   ln: https://www.linkedin.com/in/hellen-mwangoka-netsuiteexpert/
@@ -53,7 +53,7 @@
       color:
       points: 41
 
-- name: Dean
+- name: Team Monahan
   team: Canada, Eh
   flag: ca
   ln: https://www.linkedin.com/in/deanherback/
@@ -64,7 +64,7 @@
       color: 
       points: 107
 
-- name: Kim
+- name: Team Fontillas
   team: Wonder Bread
   flag: gr
   ln: https://www.linkedin.com/in/kimberlyalawton/
@@ -75,35 +75,4 @@
       color: 
       points: 99
 
-- name: Vince
-  team: Toro Rosso
-  flag: cl
-  ln: https://www.linkedin.com/in/vince-kroll-cpa-54102677/
-  image: assets/images/headshots/vince.jpg
-  archive:
-    - year: 2020
-      place: 10th
-      color: 
-      points: 32
 
-- name: Bobby
-  team: Rebel Alliance
-  flag: us
-  ln: https://www.linkedin.com/in/bobby-shores-111a4a13/
-  image: assets/images/headshots/bobby.jpg
-  archive:
-    - year: 2020
-      place: 8th
-      color: 
-      points: 54
-
-- name: Danielle
-  team: Ranger
-  flag: nl
-  ln: https://www.linkedin.com/in/daniellelau1/
-  image: assets/images/headshots/danielle.jpg
-  archive:
-    - year: 2020
-      place: 6th
-      color: 
-      points: 88
